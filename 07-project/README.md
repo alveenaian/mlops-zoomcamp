@@ -23,6 +23,11 @@ For that, you will need:
 * Follow the best practices 
 
 
+## Datasets you cannot use
+
+The NYC taxi dataset is used throughout the course modules and homework. It cannot be used for the project. Pick any other dataset.
+
+
 ## Technologies 
 
 You don't have to limit yourself to technologies covered in the course. You can use alternatives as well:
